@@ -1,68 +1,65 @@
 # 👋 Hello ! I'm Olive, nice to meet you !
 
-<div style="display: flex; justify-content: center; align-items: center; padding-bottom: 20px">
-	<img src="https://i.imgur.com/MWSO2zI.jpg" alt="welcome to my github" width="150" style="-webkit-border-radius: 150px 150px 150px 150px; -moz-border-radius: 150px 150px 150px 150px; border-radius: 150px 150px 150px 150px;">
-	<p style="padding: 20px; font-size: 16px">Student in career transition studying web development at <a href="https://www.holbertonschool.fr/"><b>Holberton School</b></a> in Lille, France.<br>Learning languages such as <b>C</b>, <b>Python</b>, <b>HTML</b>, <b>CSS</b>, <b>JavaScript</b>, and tools like <b>Docker</b>, <b>VSCode</b>, and more.<br>Planning to pursue a second-year specialization in <b>Full-stack</b> development..</p>
-</div>
+<img src="https://i.imgur.com/PqNGHKp.png" alt="welcome to my github" width="100%">
+<p style="padding: 20px; font-size: 16px">Student in career transition studying web development at <a href="https://www.holbertonschool.fr/"><b>Holberton School</b></a> in Lille, France.<br>Learning languages such as <b>C</b>, <b>Python</b>, <b>HTML</b>, <b>CSS</b>, <b>JavaScript</b>, and tools like <b>Docker</b>, <b>VSCode</b>, and more.<br>Planning to pursue a second-year specialization in <b>Full-stack</b> development..</p>
 
 In this [**Github**](https://github.com/ValPumpkins), you'll find all the projects I've done at school ([Simple Shell](https://github.com/electrikbox/holbertonschool-simple_shell), AirBnb Clone *(wip)*, [_printf](https://github.com/electrikbox/holbertonschool-printf), etc.), as well as my *"own projects"* I've done or projects in collaboration ([**Vip Electrik**](https://github.com/electrikbox/VIPElectrik) (Rust game plugin), **Stand-Up Project** *(wip)*).
 
 At the moment, I'm in the early stages of **preparing my Portfolio**, a project that will mark the end of my first year.
-
+<br>
+<br>
 ## 👦🏻 About me
-
-Graphic designer and self-taught sound engineer since 2004, I wanted to change my profession or at least learn a new one. Yes, I enjoy learning new things ;)<br>
+Graphic designer and self-taught sound engineer since 2004, I wanted to change my profession or at least learn a new one. Yes, I enjoy learning new things ;)
+<br>
+<br>
 So, I embarked on a new direction by joining Holberton School to learn web languages as well as other programming languages and development tools.
-
 My constant mood makes me someone who can integrate and manage teams while respecting given requirements.
-
-Want to make some connections ?<br>
-visite my [**Linkedin profile**]("https://www.linkedin.com/in/electrikbox/")
-
+<br>
+<br>
+Want to make some connections ?
+<br>
+visite my [**Linkedin profile**](https://www.linkedin.com/in/electrikbox/)
+<br>
+<br>
 ## ⚙️ Knowledge
-
-<table style="background-color: #272727; border-radius: 10px;">    <tr>
+<table align="center" width=100%>
+    <tr>
         <td width=120><b>Langages :</b></td>
-        <td style="display: flex; flex-wrap: wrap; gap: 10px;">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/html5/html5-original.svg" alt="HTML5" style="width: 40px; max-width: 40px; height: auto;">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/css3/css3-original.svg" alt="CSS3" style="width: 40px; max-width: 40px; height: auto;">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/javascript/javascript-original.svg" alt="JavaScript" style="width: 40px; max-width: 40px; height: auto;">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/python/python-original.svg" alt="Python" style="width: 40px; max-width: 40px; height: auto;">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/c/c-original.svg" alt="C" style="width: 40px; max-width: 40px; height: auto;">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" style="width: 40px; max-width: 40px; height: auto;">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/swift/swift-original.svg" alt="Swift" style="width: 40px; max-width: 40px; height: auto;">
-            <img src="https://upload.wikimedia.org/wikipedia/commons/a/a3/Bash_Logo_White.svg" alt="Bash" style="width: 40px; max-width: 40px; height: auto;">
+        <td>
+            <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/html5/html5-original.svg" alt="HTML5" width="60" height="60">
+            <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/css3/css3-original.svg" alt="CSS3" width="60" height="60">
+            <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/javascript/javascript-original.svg" alt="JavaScript" width="60" height="60">
+            <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/python/python-original.svg" alt="Python" width="60" height="60">
+            <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/c/c-original.svg" alt="C" width="60" height="60">
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="60" height="60">
+            <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/swift/swift-original.svg" alt="Swift" width="60" height="60">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/a/a3/Bash_Logo_White.svg" alt="Bash" width="60" height="60">
         </td>
     </tr>
-</table>
-<table style="background-color: #272727; border-radius: 10px">
     <tr>
         <td width=120><b>Tools :</b></td>
-        <td style="display: flex; flex-wrap: wrap; gap: 10px;">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="GitHub" style="width: 40px; max-width: 40px; height: auto;">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/vscode/vscode-original.svg" alt="VSCode" style="width: 40px; max-width: 40px; height: auto;">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/docker/docker-original.svg" alt="Docker" style="width: 40px; max-width: 40px; height: auto;">
-            <img src="https://www.svgrepo.com/show/373554/django.svg" alt="Django" style="width: 40px; max-width: 40px; height: auto;">
-            <img src="https://upload.wikimedia.org/wikipedia/commons/b/b5/DBeaver_logo.svg" alt="Dbeaver" style="width: 40px; max-width: 40px; height: auto;">
+        <td>
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="GitHub" width="60" height="60">
+            <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/vscode/vscode-original.svg" alt="VSCode" width="60" height="60">
+            <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/docker/docker-original.svg" alt="Docker" width="60" height="60">
+            <img src="https://www.svgrepo.com/show/373554/django.svg" alt="Django" width="60" height="60">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/b/b5/DBeaver_logo.svg" alt="Dbeaver" width="60" height="60">
         </td>
     </tr>
-</table>
-<table style="background-color: #272727; border-radius: 10px">
     <tr>
         <td width=120><b>OS :</b></td>
-        <td style="display: flex; flex-wrap: wrap; gap: 10px;">
-            <img src="https://upload.wikimedia.org/wikipedia/fr/1/12/Apple_%28flat_design%29.svg" alt="MacOS" style="width: 40px; max-width: 40px; height: auto;">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/windows8/windows8-original.svg" alt="Windows" style="width: 40px; max-width: 40px; height: auto;">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/linux/linux-original.svg" alt="Linux" style="width: 40px; max-width: 40px; height: auto;">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" alt="ubuntu" style="width: 40px; max-width: 40px; height: auto;">
+        <td>
+            <img src="https://upload.wikimedia.org/wikipedia/fr/1/12/Apple_%28flat_design%29.svg" alt="MacOS" width="60" height="60">
+            <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/windows8/windows8-original.svg" alt="Windows" width="60" height="60">
+            <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/linux/linux-original.svg" alt="Linux" width="60" height="60">
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" alt="ubuntu" width="60" height="60">
         </td>
     </tr>
-</table>
-<table style="background-color: #272727; border-radius: 10px">    <tr>
+    <tr>
         <td width=120><b>Others :</b></td>
-        <td style="display: flex; flex-wrap: wrap; gap: 10px;">
-            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Notion-logo.svg/200px-Notion-logo.svg.png" alt="Notion" style="width: 40px; max-width: 40px; height: auto;">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-plain.svg" alt="Photoshop" style="width: 40px; max-width: 40px; height: auto;">
+        <td>
+            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Notion-logo.svg/200px-Notion-logo.svg.png" alt="Notion" width="60" height="60">
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-plain.svg" alt="Photoshop" width="60" height="60">
         </td>
     </tr>
 </table>
