@@ -1,7 +1,7 @@
 # 👋 Hello ! I'm Olive, nice to meet you !
 
 <div style="display: flex; justify-content: center; align-items: center; padding-bottom: 20px">
-	<img src="https://i.imgur.com/MWSO2zI.jpg" alt="Banner with 'welcome to my github' and a drawing of broccoli in front of a laptop computer" width="150" style="border-radius: 150px; border: 3px solid #ffffff">
+	<img src="https://i.imgur.com/MWSO2zI.jpg" alt="welcome to my github" width="150" style="-webkit-border-radius: 150px 150px 150px 150px; -moz-border-radius: 150px 150px 150px 150px; border-radius: 150px 150px 150px 150px;">
 	<p style="padding: 20px; font-size: 16px">Student in career transition studying web development at <a href="https://www.holbertonschool.fr/"><b>Holberton School</b></a> in Lille, France.<br>Learning languages such as <b>C</b>, <b>Python</b>, <b>HTML</b>, <b>CSS</b>, <b>JavaScript</b>, and tools like <b>Docker</b>, <b>VSCode</b>, and more.<br>Planning to pursue a second-year specialization in <b>Full-stack</b> development..</p>
 </div>
 
@@ -22,7 +22,7 @@ visite my [**Linkedin profile**]("https://www.linkedin.com/in/electrikbox/")
 ## ⚙️ Knowledge
 
 <table style="background-color: #272727; border-radius: 10px;">    <tr>
-        <td width=80><b>Langages :</b></td>
+        <td width=120><b>Langages :</b></td>
         <td style="display: flex; flex-wrap: wrap; gap: 10px;">
             <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/html5/html5-original.svg" alt="HTML5" style="width: 40px; max-width: 40px; height: auto;">
             <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/css3/css3-original.svg" alt="CSS3" style="width: 40px; max-width: 40px; height: auto;">
@@ -35,8 +35,9 @@ visite my [**Linkedin profile**]("https://www.linkedin.com/in/electrikbox/")
         </td>
     </tr>
 </table>
-<table style="background-color: #272727; border-radius: 10px">    <tr>
-        <td width=80><b>Tools :</b></td>
+<table style="background-color: #272727; border-radius: 10px">
+    <tr>
+        <td width=120><b>Tools :</b></td>
         <td style="display: flex; flex-wrap: wrap; gap: 10px;">
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="GitHub" style="width: 40px; max-width: 40px; height: auto;">
             <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/vscode/vscode-original.svg" alt="VSCode" style="width: 40px; max-width: 40px; height: auto;">
@@ -48,7 +49,7 @@ visite my [**Linkedin profile**]("https://www.linkedin.com/in/electrikbox/")
 </table>
 <table style="background-color: #272727; border-radius: 10px">
     <tr>
-        <td width=80><b>OS :</b></td>
+        <td width=120><b>OS :</b></td>
         <td style="display: flex; flex-wrap: wrap; gap: 10px;">
             <img src="https://upload.wikimedia.org/wikipedia/fr/1/12/Apple_%28flat_design%29.svg" alt="MacOS" style="width: 40px; max-width: 40px; height: auto;">
             <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/windows8/windows8-original.svg" alt="Windows" style="width: 40px; max-width: 40px; height: auto;">
@@ -58,7 +59,7 @@ visite my [**Linkedin profile**]("https://www.linkedin.com/in/electrikbox/")
     </tr>
 </table>
 <table style="background-color: #272727; border-radius: 10px">    <tr>
-        <td width=80><b>Others :</b></td>
+        <td width=120><b>Others :</b></td>
         <td style="display: flex; flex-wrap: wrap; gap: 10px;">
             <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Notion-logo.svg/200px-Notion-logo.svg.png" alt="Notion" style="width: 40px; max-width: 40px; height: auto;">
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-plain.svg" alt="Photoshop" style="width: 40px; max-width: 40px; height: auto;">
