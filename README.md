@@ -34,6 +34,7 @@ visite my [**Linkedin profile**](https://www.linkedin.com/in/olivier-tservrancx/
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="60" height="60">
             <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/swift/swift-original.svg" alt="Swift" width="60" height="60">
             <img src="https://upload.wikimedia.org/wikipedia/commons/a/a3/Bash_Logo_White.svg" alt="Bash" width="60" height="60">
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="Bash" width="60" height="60">
         </td>
     </tr>
     <tr>
@@ -60,6 +61,7 @@ visite my [**Linkedin profile**](https://www.linkedin.com/in/olivier-tservrancx/
         <td>
             <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Notion-logo.svg/200px-Notion-logo.svg.png" alt="Notion" width="60" height="60">
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-plain.svg" alt="Photoshop" width="60" height="60">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/4/49/PT2019.png" alt="Photoshop" width="60" height="60">
         </td>
     </tr>
 </table>
