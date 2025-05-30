@@ -32,7 +32,6 @@ visite my [**Linkedin profile**](https://www.linkedin.com/in/olivier-tservrancx/
             <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/python/python-original.svg" alt="Python" width="60" height="60">
             <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/c/c-original.svg" alt="C" width="60" height="60">
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="60" height="60">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/swift/swift-original.svg" alt="Swift" width="60" height="60">
             <img src="https://upload.wikimedia.org/wikipedia/commons/a/a3/Bash_Logo_White.svg" alt="Bash" width="60" height="60">
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="Bash" width="60" height="60">
         </td>
