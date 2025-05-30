@@ -3,7 +3,7 @@
 <img src="https://i.imgur.com/ImgMbNV.gif" alt="welcome to my github" width="100%">
 <p style="padding: 20px; font-size: 16px">Student in career transition studying web development at <a href="https://www.foreach-academy.fr/"><b>ForEach Academy</b></a> in Lille, France.<br>Learning languages such as <b>C</b>, <b>Python</b>, <b>HTML</b>, <b>CSS</b>, <b>JavaScript</b>, and tools like <b>Docker</b>, <b>VSCode</b>, and more.<br>Planning to pursue a second-year specialization in <b>Full-stack</b> development..</p>
 
-In this [**Github**](https://github.com/electrikbox), you'll find all the projects I've done at school ([Simple Shell](https://github.com/electrikbox/holbertonschool-simple_shell), AirBnb Clone *(wip)*, [_printf](https://github.com/electrikbox/holbertonschool-printf), etc.), as well as my *"own projects"* I've done or projects in collaboration ([Vip Electrik](https://github.com/electrikbox/VIPElectrik) (Rust game plugin), **Stand-Up Project** *(wip)*).
+In this [**Github**](https://github.com/electrikbox), you'll find all the projects I've done at school ([Simple Shell](https://github.com/electrikbox/holbertonschool-simple_shell), AirBnb Clone, [_printf](https://github.com/electrikbox/holbertonschool-printf), Java SpringBoot API etc.), as well as my *"own projects"* I've done or projects in collaboration ([Vip Electrik](https://github.com/electrikbox/VIPElectrik) (Rust game plugin)).
 
 At the moment, I'm in the early stages of **preparing my Portfolio**, a project that will mark the end of my first year.
 <br>
