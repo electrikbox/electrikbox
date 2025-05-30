@@ -12,7 +12,7 @@ At the moment, I'm in the early stages of **preparing my Portfolio**, a project 
 Graphic designer and self-taught sound engineer since 2004, I wanted to change my profession or at least learn a new one. Yes, I enjoy learning new things ;)
 <br>
 <br>
-So, I embarked on a new direction by joining Holberton School to learn web languages as well as other programming languages and development tools.
+So, I embarked on a new direction by joining ForEach Academy to learn web languages as well as other programming languages and development tools.
 My constant mood makes me someone who can integrate and manage teams while respecting given requirements.
 <br>
 <br>
